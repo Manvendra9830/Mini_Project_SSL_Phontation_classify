@@ -1,0 +1,50 @@
+[
+    {
+        "model_name": "hubert",
+        "layer_num": "5",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 100,
+            "gamma": "auto"
+        },
+        "accuracy": 92.0395569620253,
+        "std_accuracy": 3.008763587919846
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "5",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 100,
+            "gamma": "scale"
+        },
+        "accuracy": 92.0395569620253,
+        "std_accuracy": 3.008763587919846
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "5",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 1000,
+            "gamma": "auto"
+        },
+        "accuracy": 92.0395569620253,
+        "std_accuracy": 3.008763587919846
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "5",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 1000,
+            "gamma": "scale"
+        },
+        "accuracy": 92.0395569620253,
+        "std_accuracy": 3.008763587919846
+    }
+]

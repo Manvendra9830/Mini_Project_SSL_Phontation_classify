@@ -1,0 +1,26 @@
+[
+    {
+        "model_name": "hubert",
+        "layer_num": "4",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 10,
+            "gamma": "auto"
+        },
+        "accuracy": 91.65981012658226,
+        "std_accuracy": 2.9622894403770097
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "4",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 10,
+            "gamma": "scale"
+        },
+        "accuracy": 91.65981012658226,
+        "std_accuracy": 2.9622894403770097
+    }
+]

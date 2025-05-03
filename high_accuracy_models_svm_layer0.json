@@ -1,0 +1,338 @@
+[
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 0.001,
+            "gamma": "auto"
+        },
+        "accuracy": 49.03164556962027,
+        "std_accuracy": 9.676790893994184
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 0.001,
+            "gamma": "scale"
+        },
+        "accuracy": 49.03164556962027,
+        "std_accuracy": 9.676790893994184
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 0.01,
+            "gamma": "auto"
+        },
+        "accuracy": 49.03164556962027,
+        "std_accuracy": 9.676790893994184
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 0.01,
+            "gamma": "scale"
+        },
+        "accuracy": 49.03164556962027,
+        "std_accuracy": 9.676790893994184
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 0.1,
+            "gamma": "auto"
+        },
+        "accuracy": 70.81803797468356,
+        "std_accuracy": 6.137984546264177
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 0.1,
+            "gamma": "scale"
+        },
+        "accuracy": 70.81803797468356,
+        "std_accuracy": 6.137984546264177
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 1,
+            "gamma": "auto"
+        },
+        "accuracy": 85.84177215189874,
+        "std_accuracy": 6.3413836764212155
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 1,
+            "gamma": "scale"
+        },
+        "accuracy": 85.84177215189874,
+        "std_accuracy": 6.3413836764212155
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 10,
+            "gamma": "auto"
+        },
+        "accuracy": 88.751582278481,
+        "std_accuracy": 4.665207701117731
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 10,
+            "gamma": "scale"
+        },
+        "accuracy": 88.751582278481,
+        "std_accuracy": 4.665207701117731
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 100,
+            "gamma": "auto"
+        },
+        "accuracy": 88.751582278481,
+        "std_accuracy": 4.767131977205461
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 100,
+            "gamma": "scale"
+        },
+        "accuracy": 88.751582278481,
+        "std_accuracy": 4.767131977205461
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 1000,
+            "gamma": "auto"
+        },
+        "accuracy": 88.751582278481,
+        "std_accuracy": 4.767131977205461
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 1000,
+            "gamma": "scale"
+        },
+        "accuracy": 88.751582278481,
+        "std_accuracy": 4.767131977205461
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 0.001,
+            "gamma": "auto"
+        },
+        "accuracy": 47.76582278481013,
+        "std_accuracy": 9.498808736313679
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 0.001,
+            "gamma": "scale"
+        },
+        "accuracy": 47.76582278481013,
+        "std_accuracy": 9.498808736313679
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 0.01,
+            "gamma": "auto"
+        },
+        "accuracy": 47.76582278481013,
+        "std_accuracy": 9.498808736313679
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 0.01,
+            "gamma": "scale"
+        },
+        "accuracy": 47.76582278481013,
+        "std_accuracy": 9.498808736313679
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 0.1,
+            "gamma": "auto"
+        },
+        "accuracy": 69.93354430379748,
+        "std_accuracy": 5.0979912614144505
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 0.1,
+            "gamma": "scale"
+        },
+        "accuracy": 69.93354430379748,
+        "std_accuracy": 5.0979912614144505
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 1,
+            "gamma": "auto"
+        },
+        "accuracy": 87.23101265822784,
+        "std_accuracy": 4.970369663053831
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 1,
+            "gamma": "scale"
+        },
+        "accuracy": 87.23101265822784,
+        "std_accuracy": 4.970369663053831
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 10,
+            "gamma": "auto"
+        },
+        "accuracy": 89.76582278481011,
+        "std_accuracy": 4.659351001429974
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 10,
+            "gamma": "scale"
+        },
+        "accuracy": 89.76582278481011,
+        "std_accuracy": 4.659351001429974
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 100,
+            "gamma": "auto"
+        },
+        "accuracy": 90.27373417721518,
+        "std_accuracy": 4.31845541163561
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 100,
+            "gamma": "scale"
+        },
+        "accuracy": 90.27373417721518,
+        "std_accuracy": 4.31845541163561
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 1000,
+            "gamma": "auto"
+        },
+        "accuracy": 90.27373417721518,
+        "std_accuracy": 4.31845541163561
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "kernel": "rbf",
+            "probability": true,
+            "C": 1000,
+            "gamma": "scale"
+        },
+        "accuracy": 90.27373417721518,
+        "std_accuracy": 4.31845541163561
+    }
+]

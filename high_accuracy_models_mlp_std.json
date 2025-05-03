@@ -1,0 +1,38 @@
+[
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "4",
+        "parameters": {
+            "hidden_layer_sizes": 520,
+            "early_stopping": true,
+            "max_iter": 1200,
+            "learning_rate_init": 0.1
+        },
+        "accuracy": 81.82120253164558,
+        "std_accuracy": 1.8558777617245448
+    },
+    {
+        "model_name": "wav2vec2L",
+        "layer_num": "9",
+        "parameters": {
+            "hidden_layer_sizes": 820,
+            "early_stopping": true,
+            "max_iter": 1200,
+            "learning_rate_init": 0.001
+        },
+        "accuracy": 77.01740506329114,
+        "std_accuracy": 1.6149359262788785
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "5",
+        "parameters": {
+            "hidden_layer_sizes": 820,
+            "early_stopping": true,
+            "max_iter": 1200,
+            "learning_rate_init": 0.001
+        },
+        "accuracy": 88.63291139240505,
+        "std_accuracy": 1.975912977389356
+    }
+]

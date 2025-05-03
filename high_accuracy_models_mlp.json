@@ -1,0 +1,98 @@
+[
+    {
+        "model_name": "hubert",
+        "layer_num": "0",
+        "parameters": {
+            "hidden_layer_sizes": 720,
+            "early_stopping": true,
+            "max_iter": 1200,
+            "learning_rate_init": 0.001
+        },
+        "accuracy": 88.12025316455697,
+        "std_accuracy": 5.390968378471818
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "2",
+        "parameters": {
+            "hidden_layer_sizes": 520,
+            "early_stopping": true,
+            "max_iter": 1200,
+            "learning_rate_init": 0.001
+        },
+        "accuracy": 88.88132911392404,
+        "std_accuracy": 4.570052236410286
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "3",
+        "parameters": {
+            "hidden_layer_sizes": 520,
+            "early_stopping": true,
+            "max_iter": 1200,
+            "learning_rate_init": 0.001
+        },
+        "accuracy": 88.62658227848101,
+        "std_accuracy": 4.682848263366549
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "3",
+        "parameters": {
+            "hidden_layer_sizes": 820,
+            "early_stopping": true,
+            "max_iter": 1200,
+            "learning_rate_init": 0.001
+        },
+        "accuracy": 88.25632911392404,
+        "std_accuracy": 2.83627820261366
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "4",
+        "parameters": {
+            "hidden_layer_sizes": 320,
+            "early_stopping": true,
+            "max_iter": 1200,
+            "learning_rate_init": 0.001
+        },
+        "accuracy": 88.75474683544302,
+        "std_accuracy": 5.334189315063204
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "4",
+        "parameters": {
+            "hidden_layer_sizes": 420,
+            "early_stopping": true,
+            "max_iter": 1200,
+            "learning_rate_init": 0.001
+        },
+        "accuracy": 88.125,
+        "std_accuracy": 4.878230249560748
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "5",
+        "parameters": {
+            "hidden_layer_sizes": 720,
+            "early_stopping": true,
+            "max_iter": 1200,
+            "learning_rate_init": 0.001
+        },
+        "accuracy": 88.12341772151898,
+        "std_accuracy": 5.142629985344002
+    },
+    {
+        "model_name": "hubert",
+        "layer_num": "5",
+        "parameters": {
+            "hidden_layer_sizes": 820,
+            "early_stopping": true,
+            "max_iter": 1200,
+            "learning_rate_init": 0.001
+        },
+        "accuracy": 88.63291139240505,
+        "std_accuracy": 1.975912977389356
+    }
+]
